@@ -33,7 +33,7 @@
     <repository>
       <id>devops5-releases</id>
       <name>devops5-releases</name>
-      <url>http://localhost:8081/nexus/content/repositories/devops5-releases</url>
+      <url>http://localhost:8081/repository/Maven_Proj_1/</url>
     </repository>
     <snapshotRepository>
       <id>devops5-snapshot</id>
