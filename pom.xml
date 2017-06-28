@@ -31,13 +31,13 @@
 	</build>
 	 <distributionManagement>
     <repository>
-      <id>devops5-releases</id>
-      <name>devops5-releases</name>
+      <id>nexus</id>
+      <name>nexus</name>
       <url>http://localhost:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>devops5-snapshot</id>
-      <name>devops5-snapshot</name>
+      <id>nexus</id>
+      <name>nexus</name>
       <url>http://localhost:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
