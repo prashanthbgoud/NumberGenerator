@@ -31,12 +31,12 @@
 	</build>
 	 <distributionManagement>
     <repository>
-      <id>maven-build</id>
+      <id>nexus</id>
       <name>maven-build</name>
       <url>http://192.168.56.103:8081/nexus/content/repositories/maven-build/</url>
     </repository>
     <snapshotRepository>
-      <id>maven-snapshot</id>
+      <id>nexus</id>
       <name>maven-snapshot</name>
       <url>http://192.168.56.103:8081/nexus/content/repositories/maven-snapshot/</url>
     </snapshotRepository>
